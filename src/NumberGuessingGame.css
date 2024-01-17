@@ -1,0 +1,46 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  div {
+    text-align: center;
+  }
+  
+  p {
+    margin: 10px 0;
+  }
+  
+  form {
+    margin-top: 10px;
+  }
+  
+  input {
+    padding: 5px;
+    margin-right: 5px;
+    width: 500px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    cursor: pointer;
+    background-color:blue;
+    color: aliceblue;
+    border-radius: 20px;
+  }
+
+  button:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .takingInput{
+    color: Black;
+    font-size: 100px;
+  }
+
+  
